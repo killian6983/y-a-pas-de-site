@@ -1,8 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap');
+
+
+
 header h1{
     font-family: Newsreader;
     font-weight: 700;
     font-size: 18px;
     line-height: 22.5px;
     letter-spacing: -0.27px;
-
 }
+
